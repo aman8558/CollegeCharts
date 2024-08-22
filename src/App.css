@@ -1,0 +1,60 @@
+
+
+.search{
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.college-name{
+    display: flex;
+    align-items: center;
+    
+}
+.college-name .top{
+    margin: 0px;
+    padding: 0px;
+    color: #3ABEF9;
+}
+.extra{
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+}
+
+.logo{
+    width: 50px;
+    padding: 5px;
+}
+.cuttoff-special{
+    border-left: 4px solid rgb(243, 117, 50);
+    padding-left: 10px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.cuttoff-special p{
+    margin: 0px;
+    padding: 0px;
+}
+.specialize{
+    color:  rgb(243, 117, 50);
+}
+.links{
+    margin-bottom: 5px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.fees{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.top{
+    margin: 0px;
+    padding: 0px;
+    color: #3ABEF9;
+    font-size: 20px;
+}
+.feat{
+    background-color: #C7253E;
+    color: white;
+    padding: 5px;
+}
